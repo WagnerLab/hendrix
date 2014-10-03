@@ -31,8 +31,8 @@ If/Else Statements
 if condition
 	one or more lines;
 elseif condition2
-	one or more lines
+	one or more lines;
 else
-	one or more lines
+	one or more lines;
 end
 ```
