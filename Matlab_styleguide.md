@@ -28,11 +28,11 @@ function [c] = calculateSum(a, b)
 If/Else Statements
 ---------------------
 ```
-if 
-
-elseif
-
+if condition
+	one or more lines;
+elseif condition2
+	one or more lines
 else
-
+	one or more lines
 end
 ```
