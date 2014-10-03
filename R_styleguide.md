@@ -1,4 +1,4 @@
-Title
+Wagner Lab R Style Guide
 =======================
  
 Naming Variables
