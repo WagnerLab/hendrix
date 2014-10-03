@@ -5,8 +5,8 @@ Naming Variables
 --------------
  
 ```
-df_name = load('data.mat')
-numConstant = 200
+df_name = load('data.mat');
+numConstant = 200;
 ```
  
 Defining Functions
@@ -21,7 +21,7 @@ function [c] = calculateSum(a, b)
 % Returns: 
 %   The sum of a and b.
   
-  c = a + b
+  c = a + b;
 
 ```
  
@@ -31,8 +31,8 @@ If/Else Statements
 if condition
 	one or more lines;
 elseif condition2
-	one or more lines
+	one or more lines;
 else
-	one or more lines
+	one or more lines;
 end
 ```
