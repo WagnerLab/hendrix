@@ -1,16 +1,15 @@
 Title
 =======================
  
-Section A
+Naming Variables
 --------------
-Text about the section. There will be a chunk of code about naming variables.
  
 ```{r naming_vars}
 df_name <- read.csv('http://stanford.edu/class/psych252/data/caffeine.csv')
 numConstant <- 200
 ```
  
-Naming Functions
+Defining Functions
 ------------------
 ```{r naming_functions}
 CalculateSum <- function(a, b){
