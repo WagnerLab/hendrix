@@ -1,6 +1,10 @@
 Wagner Lab Matlab Style Guide
 =======================
- 
+
+Additional Reference for MatlabStyle
+------------------------------------
+https://sites.google.com/site/matlabstyleguidelines/home
+
 Naming Variables
 --------------
  
